@@ -14,7 +14,7 @@
     "@emotion/styled": "^11.14.1",
     "@mui/icons-material": "^7.2.0",
     "@mui/material": "^7.2.0",
-    "@spidy092/auth-client": "^1.0.16",
+    "@spidy092/auth-client": "^2.0.4",
     "@tanstack/react-query": "^5.83.0",
     "date-fns": "^4.1.0",
     "jwt-decode": "^4.0.0",
